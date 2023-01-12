@@ -5,7 +5,7 @@
 <h3> Sobre mim:</h3>
 <ul>
   <li> Cursando Análise e Desenvolvimento de Sistemas a concluir em dezembro de 2022;</li>
-  <li> Estagiário de Suporte e Desenvolvimento na QueroEducação desde dezembro 2021;</li>
+  <li> Desenvolvedor na QueroEducação desde dezembro 2022;</li>
 </ul>
 
 <h3> Ferramentas e tecnologias que estou aprendendo:</h3>
