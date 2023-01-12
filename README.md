@@ -33,9 +33,3 @@
   <a href="https://www.linkedin.com/in/esantos081992/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 <hr></br>
-<div align = "center">
-  <a href="https://github.com/esantos92">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esantos92&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=esantos92&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-</br>
